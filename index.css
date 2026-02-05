@@ -196,44 +196,7 @@ body{
   color:var(--muted)
 }
 
-/* Contact */
-.contact-form{
-  max-width:760px;
-  margin-top:16px;
-  background:linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01));
-  padding:18px;
-  border-radius:12px;
-  border:1px solid rgba(255,255,255,0.03)
-}
-.form-row{
-  display:flex;
-  gap:12px
-}
-.form-row input{
-  flex:1;
-  padding:10px;
-  border-radius:8px;
-  border:1px solid rgba(255,255,255,0.04);
-  background:transparent;
-  color:inherit
-}
-textarea{
-  width:100%;
-  padding:10px;
-  border-radius:8px;
-  border:1px solid rgba(255,255,255,0.04);
-  background:transparent;
-  color:inherit
-}
-.form-actions{
-  display:flex;
-  gap:12px;
-  margin-top:12px
-}
-.form-status{
-  margin-top:12px;
-  color:var(--accent)
-}
+
 
 /* Footer */
 .site-footer{
