@@ -2,7 +2,7 @@
 
 A modern, responsive personal portfolio website built with **HTML, CSS, and vanilla JavaScript**. Showcasing skills, projects, experience, and professional background as a Data Scientist and Software Developer.
 
-## 🎯 Features
+## Features
 
 - **Responsive Design** - Works seamlessly on desktop, tablet, and mobile devices
 - **Smooth Animations** - Intersection Observer for elegant scroll reveals
@@ -11,7 +11,7 @@ A modern, responsive personal portfolio website built with **HTML, CSS, and vani
 - **Smooth Scrolling** - In-page navigation with smooth scroll behavior
 - **Performance Optimized** - Minimal dependencies, lightweight JavaScript
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 Portfolio_2.0/
